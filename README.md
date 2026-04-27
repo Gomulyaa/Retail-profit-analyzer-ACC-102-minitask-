@@ -1,4 +1,4 @@
-## The video I have uploaded was sped up to 3 minutes. Please ideally watch the video in 0.75* or 0.5* speed. There was no penalisation of video length or quality though according to track 4 rubrics, just the content of the video.##
+## The video I have uploaded was sped up to 3 minutes. Please ideally watch the video in 0.75* or 0.5* speed. There should be no penalisation of video length or quality though according to track 4 rubrics.
 
 Hey, this is my ACC102 minitask!
 
