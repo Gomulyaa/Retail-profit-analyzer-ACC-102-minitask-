@@ -1,4 +1,5 @@
 Hey, this is my ACC102 minitask!
+![Dashboard Screenshot](dashboard.png)
 
 **Problem**: products look successful due to high revenue, but same said products are destroying profit margins.
 **Data product**: Analyze sales and profitability across sub categories (product types, geographical branches, and discount rates of products) to identify what's actually losing money, even though it's selling well.
