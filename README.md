@@ -1,5 +1,4 @@
 Hey, this is my ACC102 minitask!
-![Dashboard Screenshot](dashboard.png)
 
 **Problem**: products look successful due to high revenue, but same said products are destroying profit margins.
 **Data product**: Analyze sales and profitability across sub categories (product types, geographical branches, and discount rates of products) to identify what's actually losing money, even though it's selling well.
@@ -8,7 +7,7 @@ Hey, this is my ACC102 minitask!
 **Dataset**:
 - 'Superstore Sales Dataset'
  This is a synthetic dataset from Kaggle. This dataset contains 9994 records of retail sales transactions, with information of each transactions' sales, profit, product type, regions, and customer types. Total of 21 different columns. This dataset is publicly avaiable under a CC0 license, and follows realistic business patterns. This is also why it's widely used in academic works. Not only is it from Kaggle, a trusted dataset website, this dataset is also rated a '10/10' usability in Kaggle, further showing its reliability. 
-(dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 **Features**:
 - Interactive filters (Region, Customer Segment, Product Category, Discount Range); visible at the left side of the screen
