@@ -3,7 +3,7 @@
 Hey, this is my ACC102 minitask!
 
 **Problem**: products look successful due to high revenue, but same said products are destroying profit margins.
-**Data product**: Analyze sales and profitability across sub categories (product types, geographical branches, and discount rates of products) to identify what's actually losing money, even though it's selling well.
+**Data product**: Analyze sales and profitability across sub categories of products (product types, geographical branches, and discount rates of products) to identify what products are actually causing losses, even though it's selling well.
 **Target Audience**: retail business managers who needs to decide which product categories to promote, discount, or discontinue.
 
 **Dataset**:
